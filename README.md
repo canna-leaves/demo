@@ -1,3 +1,3 @@
 # demo2
 
-![avatar](/assets/step1.png)
+![image](/assets/step1.png)
