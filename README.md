@@ -72,6 +72,8 @@
 
 ![image](/assets/step18.png)
 
+![image](/graph/cloud.svg)
+
 19. 附（虚拟环境的安装）
 
 * 条件：Python3（含venv）

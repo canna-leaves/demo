@@ -1,0 +1,16 @@
+graph cloud {
+    avlink [label="AV-LINK"]
+    IPC_1 [label="IPC"]
+    Cloud -- Server
+    Cloud -- APP
+    Cloud -- ACP
+    Cloud -- ADT
+    Cloud -- IPC
+    Cloud -- SAC
+    Cloud -- DMT
+    Cloud -- DVP
+    Cloud -- avlink
+
+    Server -- VOIP
+    Server -- IPC[label="IPC"]
+}
