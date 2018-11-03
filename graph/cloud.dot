@@ -1,4 +1,5 @@
 graph cloud {
+    node [shape=plain, fontsize=32]
     a [label="Cloud"]
 
         b1 [label="Server"]
