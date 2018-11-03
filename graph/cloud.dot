@@ -1,6 +1,6 @@
 graph cloud {
-    node [fontsize=200]
-    a [label="Cloud"]
+    node [shape=plain, fontsize=100]
+    a [label="Cloud", fontsize=500]
 
         b1 [label="Server"]
             b1_1 [label="VOIP"]
