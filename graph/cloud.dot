@@ -1,8 +1,8 @@
 graph cloud {
-    node [shape=plain, fontsize=100]
+    node [shape=plaintext, fontsize=100, fontname="FongSong"]
     a [label="Cloud", fontsize=500]
 
-        b1 [label="Server"]
+        b1 [label="Server你好"]
             b1_1 [label="VOIP"]
             b1_2 [label="IPC"]
             b1_3 [label="Register"]
